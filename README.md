@@ -1,3 +1,20 @@
+# Calculadora Inteligente
+
+Este projeto é uma calculadora inteligente desenvolvida em Python. Utilize o script shell para facilitar a execução.
+
+## Como executar
+
+1. Dê permissão de execução ao script:
+   chmod +x calcu_script.sh
+
+2. Execute:
+   ./calcu_script.sh
+
+## Instalação
+
+Baixe todos os arquivos deste repositório e siga as instruções acima.
+
+
 [calculadora.py](https://github.com/user-attachments/files/26521996/calculadora.py)
 #calculadora.py
 
